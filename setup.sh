@@ -220,4 +220,8 @@ echo
 
 echo "Now Your Termux Is Ready To Run," |lolcat
 
+
+cd
+
+rm -rf Termux-Setup
 #Remake By Mao2116
