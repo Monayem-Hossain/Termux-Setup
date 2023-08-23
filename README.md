@@ -7,6 +7,6 @@ Setup tool for termux basic commands installation.
 + ```apt update```
 + ```apt upgrade```
 + ```pkg install git```
-+ ```git clone https://github.com/Devil-King-Monayem/Termux-Setup```
++ ```git clone https://github.com/Monayem-Hossain/Termux-Setup```
 + ```cd Termux-Setup```
 + ```bash setup.sh```
